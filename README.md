@@ -251,8 +251,8 @@ Updated DNS record to x.x.x.x
 | DNS not updating | wrong zone/subdomain      |
 | VPN not working  | Cloudflare proxy enabled  |
 
-#⚠️ Những thứ BẮT BUỘC phải kiểm tra
-##🔁 Port Forward trên router
+# ⚠️ Những thứ BẮT BUỘC phải kiểm tra
+## 🔁 Port Forward trên router
 
 Nếu bạn chạy ở mạng nội bộ (sau NAT):
 
